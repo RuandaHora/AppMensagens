@@ -1,6 +1,6 @@
 //
-//  AppMensagensApp.swift
-//  AppMensagens
+//  MensagensAPPApp.swift
+//  MensagensAPP
 //
 //  Created by Marcelo Hora on 06/01/23.
 //
@@ -11,7 +11,7 @@ import SwiftUI
 struct AppMensagensApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MatchedView()
         }
     }
 }
