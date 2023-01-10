@@ -1,9 +1,3 @@
-//
-//  NavigationBar.swift
-//  AppMensagens
-//
-//  Created by Marcelo Hora on 07/01/23.
-//
 
 import SwiftUI
 
